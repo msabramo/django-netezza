@@ -4,7 +4,7 @@ __version__ = '0.0'
 
 from setuptools import setup
 
-setup(name='netezza.pyodbc',
+setup(name='django-netezza',
       version=__version__,
       description='Django Netezza backend using pyodbc',
       long_description=open('README.rst').read(),
