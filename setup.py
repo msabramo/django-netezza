@@ -14,6 +14,6 @@ setup(name='netezza.pyodbc',
       url='https://github.com/msabramo/django-netezza',
       license='BSD',
       zip_safe=False,
-      packages=['netezza', 'netezza.pyodbc', 'netezza.extra'],
+      packages=['netezza', 'netezza.pyodbc'],
       install_requires=['Django>=1.3', 'pyodbc>=2.1.8'],
      )
