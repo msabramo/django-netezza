@@ -2,6 +2,10 @@
 django-netezza
 ==============
 
+*FYI. I no longer have access to Netezza, so I'm not working on this anymore.*
+
+------------------------------------------------------------------------------
+
 A Django_ Netezza DB backend that uses ODBC by employing
 the pyodbc_ library.
 
